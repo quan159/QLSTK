@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{B1EFB6D9-DE1E-4A66-9D21-4145702411D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS", "BUS\BUS.csproj", "{BA0D1746-5D5A-4376-8D0D-287C882829D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{F6A3EB0E-ACDC-4509-BADC-0A0F46F6574B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1EFB6D9-DE1E-4A66-9D21-4145702411D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EFB6D9-DE1E-4A66-9D21-4145702411D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EFB6D9-DE1E-4A66-9D21-4145702411D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EFB6D9-DE1E-4A66-9D21-4145702411D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0D1746-5D5A-4376-8D0D-287C882829D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0D1746-5D5A-4376-8D0D-287C882829D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0D1746-5D5A-4376-8D0D-287C882829D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0D1746-5D5A-4376-8D0D-287C882829D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A3EB0E-ACDC-4509-BADC-0A0F46F6574B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A3EB0E-ACDC-4509-BADC-0A0F46F6574B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A3EB0E-ACDC-4509-BADC-0A0F46F6574B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A3EB0E-ACDC-4509-BADC-0A0F46F6574B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA5818A5-F636-4349-BEF3-8A346DC7A634}
+	EndGlobalSection
+EndGlobal
